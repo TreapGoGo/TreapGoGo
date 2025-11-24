@@ -36,28 +36,20 @@
 
 ### 🥇 Winners Circle
 
-- 🏆 **ETH Hangzhou 2025** - **1st Place**  
-  *[Exam.fi](https://github.com/exam-fun/exam-fun)*
-- 🥈 **ETH Shanghai 2025** - **2nd Place**  
-  *[zk-flex](https://github.com/TreapGoGo/zk-flex)*
-- 🥉 **Polkadot Hackathon Global 2024** - **3rd Place**  
-  *[NoSandwichSwap](https://github.com/TreapGoGo/polkadot-hackathon-2024/tree/main/bangkok/57-NoSandwichSwap)*
-- 🌟 **Aptos Evermove Hackathon** - **Best Innovation**  
-  *[Anteros](https://github.com/HappyFox001/Anteros)*
+- 🏆 **ETH Hangzhou 2025** - **1st Place** - *[Exam.fi](https://github.com/exam-fun/exam-fun)*
+- 🥈 **ETH Shanghai 2025** - **2nd Place** - *[zk-flex](https://github.com/TreapGoGo/zk-flex)*
+- 🥉 **Polkadot Hackathon Global 2024** - **3rd Place** - *[NoSandwichSwap](https://github.com/TreapGoGo/polkadot-hackathon-2024/tree/main/bangkok/57-NoSandwichSwap)*
+- 🌟 **Aptos Evermove Hackathon** - **Best Innovation** - *[Anteros](https://github.com/HappyFox001/Anteros)*
 
 </td>
 <td width="50%" valign="top">
 
 ### 🎯 Finalists
 
-- 🔥 **BTC Spring**  
-  *[LockSwap](https://github.com/CKB-LockSwap/LockSwap-Contract)*
-- 🔷 **ETH Beijing 2025**  
-  *[Meta Empire](https://github.com/HappyFox001/MetaEmpire)*
-- 🌄 **ETH Huangshan 2025**  
-  *[Cybernity](https://github.com/brizenchi/ETH-Huangshan/tree/main/05-Cybernity)*
-- 🇭🇰 **Consensus Hong Kong 2025**  
-  *[Anteros](https://github.com/HappyFox001/Anteros)*
+- 🔥 **BTC Spring** - *[LockSwap](https://github.com/CKB-LockSwap/LockSwap-Contract)*
+- 🔷 **ETH Beijing 2025** - *[Meta Empire](https://github.com/HappyFox001/MetaEmpire)*
+- 🌄 **ETH Huangshan 2025** - *[Cybernity](https://github.com/brizenchi/ETH-Huangshan/tree/main/05-Cybernity)*
+- 🇭🇰 **Consensus Hong Kong 2025** - *[Anteros](https://github.com/HappyFox001/Anteros)*
 
 </td>
 </tr>
