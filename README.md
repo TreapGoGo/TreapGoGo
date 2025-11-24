@@ -28,42 +28,42 @@
 
 ## 🏆 Hackathon Achievements
 
-<center>
+<div align="center">
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🥇 Winners Circle
 
 - 🏆 **ETH Hangzhou 2025** - **1st Place**  
-  *Exam.fi*
+  *[Exam.fi](https://github.com/exam-fun/exam-fun)*
 - 🥈 **ETH Shanghai 2025** - **2nd Place**  
-  *zk-flex*
+  *[zk-flex](https://github.com/TreapGoGo/zk-flex)*
 - 🥉 **Polkadot Hackathon Global 2024** - **3rd Place**  
-  *NoSandwichSwap*
+  *[NoSandwichSwap](https://github.com/TreapGoGo/polkadot-hackathon-2024/tree/main/bangkok/57-NoSandwichSwap)*
 - 🌟 **Aptos Evermove Hackathon** - **Best Innovation**  
-  *Anteros*
+  *[Anteros](https://github.com/HappyFox001/Anteros)*
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🎯 Finalists
 
 - 🔥 **BTC Spring**  
-  *LockSwap*
+  *[LockSwap](https://github.com/CKB-LockSwap/LockSwap-Contract)*
 - 🔷 **ETH Beijing 2025**  
-  *Meta Empire*
+  *[Meta Empire](https://github.com/HappyFox001/MetaEmpire)*
 - 🌄 **ETH Huangshan 2025**  
-  *Cybernity*
+  *[Cybernity](https://github.com/brizenchi/ETH-Huangshan/tree/main/05-Cybernity)*
 - 🇭🇰 **Consensus Hong Kong 2025**  
-  *Anteros*
+  *[Anteros](https://github.com/HappyFox001/Anteros)*
 
 </td>
 </tr>
 </table>
 
-</center>
+</div>
 
 ### 🧮 OI/ACM Competitive Programming Awards
 
