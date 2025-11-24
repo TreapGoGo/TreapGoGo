@@ -32,7 +32,7 @@
 
 <table>
 <tr>
-<td width="60%">
+<td width="50%">
 
 ### 🥇 Winners Circle
 
@@ -46,7 +46,7 @@
   *Anteros*
 
 </td>
-<td width="40%">
+<td width="50%">
 
 ### 🎯 Finalists
 
@@ -79,7 +79,7 @@
 
 ## 💎 Featured Projects
 
-<table>
+<table width="100%">
 <tr>
 <td width="60%" valign="top">
 
@@ -91,7 +91,7 @@
 **Tech Stack:** `JavaScript` `Chrome Extension API` `Manifest V3` `Content Scripts`
 
 </td>
-<td width="40%" valign="top" align="center">
+<td width="40%" valign="middle" align="center">
 
 ![Stars](https://img.shields.io/github/stars/TreapGoGo/Yummy?style=social)
 ![Forks](https://img.shields.io/github/forks/TreapGoGo/Yummy?style=social)
@@ -101,7 +101,7 @@
 
 <br>
 
-[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TreapGoGo/Yummy)
+[![View Repository](https://img.shields.io/badge/View_Repository-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TreapGoGo/Yummy)
 
 </td>
 </tr>
@@ -109,7 +109,7 @@
 
 ---
 
-<table>
+<table width="100%">
 <tr>
 <td width="60%" valign="top">
 
@@ -122,7 +122,7 @@
 **Achievement:** 🏆 BTC Spring Finalist
 
 </td>
-<td width="40%" valign="top" align="center">
+<td width="40%" valign="middle" align="center">
 
 ![Stars](https://img.shields.io/github/stars/CKB-LockSwap/LockSwap-Contract?style=social)
 ![Forks](https://img.shields.io/github/forks/CKB-LockSwap/LockSwap-Contract?style=social)
@@ -132,7 +132,7 @@
 
 <br>
 
-[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CKB-LockSwap/LockSwap-Contract)
+[![View Repository](https://img.shields.io/badge/View_Repository-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CKB-LockSwap/LockSwap-Contract)
 
 </td>
 </tr>
@@ -140,7 +140,7 @@
 
 ---
 
-<table>
+<table width="100%">
 <tr>
 <td width="60%" valign="top">
 
@@ -153,7 +153,7 @@
 **Achievement:** 🥉 Polkadot Hackathon Global 2024 3rd Place
 
 </td>
-<td width="40%" valign="top" align="center">
+<td width="40%" valign="middle" align="center">
 
 ![Stars](https://img.shields.io/github/stars/TreapGoGo/polkadot-hackathon-2024?style=social)
 ![Forks](https://img.shields.io/github/forks/TreapGoGo/polkadot-hackathon-2024?style=social)
@@ -163,7 +163,7 @@
 
 <br>
 
-[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TreapGoGo/polkadot-hackathon-2024/tree/main/bangkok/57-NoSandwichSwap)
+[![View Repository](https://img.shields.io/badge/View_Repository-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TreapGoGo/polkadot-hackathon-2024/tree/main/bangkok/57-NoSandwichSwap)
 
 </td>
 </tr>
@@ -171,7 +171,7 @@
 
 ---
 
-<table>
+<table width="100%">
 <tr>
 <td width="60%" valign="top">
 
@@ -183,7 +183,7 @@
 **Tech Stack:** `Blockchain` `Smart Contracts` `Competitive Programming`
 
 </td>
-<td width="40%" valign="top" align="center">
+<td width="40%" valign="middle" align="center">
 
 ![Stars](https://img.shields.io/github/stars/TreapGoGo/DOJ?style=social)
 ![Forks](https://img.shields.io/github/forks/TreapGoGo/DOJ?style=social)
@@ -193,7 +193,7 @@
 
 <br>
 
-[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TreapGoGo/DOJ)
+[![View Repository](https://img.shields.io/badge/View_Repository-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TreapGoGo/DOJ)
 
 </td>
 </tr>
@@ -201,7 +201,7 @@
 
 ---
 
-<table>
+<table width="100%">
 <tr>
 <td width="60%" valign="top">
 
@@ -213,7 +213,7 @@
 **Tech Stack:** `Solidity` `Ethereum` `Smart Contracts` `Foundry`
 
 </td>
-<td width="40%" valign="top" align="center">
+<td width="40%" valign="middle" align="center">
 
 ![Stars](https://img.shields.io/github/stars/TreapGoGo/BeImmortalContract?style=social)
 ![Forks](https://img.shields.io/github/forks/TreapGoGo/BeImmortalContract?style=social)
@@ -223,7 +223,7 @@
 
 <br>
 
-[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TreapGoGo/BeImmortalContract)
+[![View Repository](https://img.shields.io/badge/View_Repository-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TreapGoGo/BeImmortalContract)
 
 </td>
 </tr>
@@ -231,7 +231,7 @@
 
 ---
 
-<table>
+<table width="100%">
 <tr>
 <td width="60%" valign="top">
 
@@ -244,7 +244,7 @@
 **Achievement:** 🥇 ETH Hangzhou 2025 1st Place
 
 </td>
-<td width="40%" valign="top" align="center">
+<td width="40%" valign="middle" align="center">
 
 ![Stars](https://img.shields.io/github/stars/exam-fun/exam-fun?style=social)
 ![Forks](https://img.shields.io/github/forks/exam-fun/exam-fun?style=social)
@@ -254,7 +254,7 @@
 
 <br>
 
-[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/exam-fun/exam-fun)
+[![View Repository](https://img.shields.io/badge/View_Repository-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/exam-fun/exam-fun)
 
 </td>
 </tr>
@@ -262,7 +262,7 @@
 
 ---
 
-<table>
+<table width="100%">
 <tr>
 <td width="60%" valign="top">
 
@@ -274,7 +274,7 @@
 **Tech Stack:** `AI` `LLM` `VS Code Extension` `TypeScript`
 
 </td>
-<td width="40%" valign="top" align="center">
+<td width="40%" valign="middle" align="center">
 
 ![Stars](https://img.shields.io/github/stars/TreapGoGo/continue?style=social)
 ![Forks](https://img.shields.io/github/forks/TreapGoGo/continue?style=social)
@@ -284,7 +284,7 @@
 
 <br>
 
-[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TreapGoGo/continue)
+[![View Repository](https://img.shields.io/badge/View_Repository-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TreapGoGo/continue)
 
 </td>
 </tr>
