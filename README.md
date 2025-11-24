@@ -28,6 +28,8 @@
 
 ## 🏆 Hackathon Achievements
 
+<center>
+
 <table>
 <tr>
 <td width="60%">
@@ -61,6 +63,8 @@
 </tr>
 </table>
 
+</center>
+
 ### 🧮 OI/ACM Competitive Programming Awards
 
 ![CCF-CSP Top 1.7%](https://img.shields.io/badge/CCF--CSP-Top_1.7%25-red?style=flat&logo=chartline&logoColor=white)
@@ -75,62 +79,216 @@
 
 ## 💎 Featured Projects
 
+<table>
+<tr>
+<td width="60%" valign="top">
+
 ### 😋 [Yummy](https://github.com/TreapGoGo/Yummy) - AI Context Manager Extension
+
 > **Browser Extension for Smarter AI Interactions**  
 > Quick content marking and context management for ChatGPT and other AI web apps. Accelerate your text generation iteration with elegant prompt scissors.
 
 **Tech Stack:** `JavaScript` `Chrome Extension API` `Manifest V3` `Content Scripts`
 
+</td>
+<td width="40%" valign="top" align="center">
+
+![Stars](https://img.shields.io/github/stars/TreapGoGo/Yummy?style=social)
+![Forks](https://img.shields.io/github/forks/TreapGoGo/Yummy?style=social)
+
+![Language](https://img.shields.io/github/languages/top/TreapGoGo/Yummy)
+![License](https://img.shields.io/github/license/TreapGoGo/Yummy)
+
+<br>
+
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TreapGoGo/Yummy)
+
+</td>
+</tr>
+</table>
+
 ---
 
+<table>
+<tr>
+<td width="60%" valign="top">
+
 ### 🔒 [LockSwap](https://github.com/CKB-LockSwap/LockSwap-Contract) - First UTXO-based DEX
+
 > **The First Decentralized Exchange Built on UTXO Model**  
 > Revolutionary DEX architecture on CKB network, bringing DeFi to UTXO chains.
 
 **Tech Stack:** `CKB` `UTXO Model` `Smart Contracts` `DeFi`  
 **Achievement:** 🏆 BTC Spring Finalist
 
+</td>
+<td width="40%" valign="top" align="center">
+
+![Stars](https://img.shields.io/github/stars/CKB-LockSwap/LockSwap-Contract?style=social)
+![Forks](https://img.shields.io/github/forks/CKB-LockSwap/LockSwap-Contract?style=social)
+
+![Language](https://img.shields.io/github/languages/top/CKB-LockSwap/LockSwap-Contract)
+![License](https://img.shields.io/github/license/CKB-LockSwap/LockSwap-Contract)
+
+<br>
+
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CKB-LockSwap/LockSwap-Contract)
+
+</td>
+</tr>
+</table>
+
 ---
 
-### 🛡️ [NoSandwichSwap](https://github.com/TreapGoGo/polkadot-hackathon-2024/tree/main/bangkok/57-NoSandwichSwap) - MEV Protection
+<table>
+<tr>
+<td width="60%" valign="top">
+
+### 🛡️ [NoSandwichSwap](https://github.com/TreapGoGo/polkadot-hackathon-2024) - MEV Protection
+
 > **Sandwich Attack Prevention for Polkadot Ecosystem**  
 > Ensuring fair and secure transactions by eliminating MEV exploitation.
 
 **Tech Stack:** `Polkadot` `Substrate` `Rust` `MEV Protection`  
 **Achievement:** 🥉 Polkadot Hackathon Global 2024 3rd Place
 
+</td>
+<td width="40%" valign="top" align="center">
+
+![Stars](https://img.shields.io/github/stars/TreapGoGo/polkadot-hackathon-2024?style=social)
+![Forks](https://img.shields.io/github/forks/TreapGoGo/polkadot-hackathon-2024?style=social)
+
+![Language](https://img.shields.io/github/languages/top/TreapGoGo/polkadot-hackathon-2024)
+![License](https://img.shields.io/github/license/TreapGoGo/polkadot-hackathon-2024)
+
+<br>
+
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TreapGoGo/polkadot-hackathon-2024/tree/main/bangkok/57-NoSandwichSwap)
+
+</td>
+</tr>
+</table>
+
 ---
 
+<table>
+<tr>
+<td width="60%" valign="top">
+
 ### ⚖️ [DOJ - Decentralized Online Judge](https://github.com/TreapGoGo/DOJ)
+
 > **First Open-Source Project - Provable Programming Contest Platform**  
 > Bringing transparency and justice to competitive programming through blockchain. Attracting OIers/ACMers to Web3.
 
 **Tech Stack:** `Blockchain` `Smart Contracts` `Competitive Programming`
 
+</td>
+<td width="40%" valign="top" align="center">
+
+![Stars](https://img.shields.io/github/stars/TreapGoGo/DOJ?style=social)
+![Forks](https://img.shields.io/github/forks/TreapGoGo/DOJ?style=social)
+
+![Language](https://img.shields.io/github/languages/top/TreapGoGo/DOJ)
+![License](https://img.shields.io/github/license/TreapGoGo/DOJ)
+
+<br>
+
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TreapGoGo/DOJ)
+
+</td>
+</tr>
+</table>
+
 ---
 
+<table>
+<tr>
+<td width="60%" valign="top">
+
 ### 🕊️ [BeImmortalContract](https://github.com/TreapGoGo/BeImmortalContract) - Digital Memorial
+
 > **Ethereum-based Memorial Service Platform**  
 > Preserving memories, last words, and blessings on-chain with immutability and transparency. A humanistic exploration of blockchain technology.
 
 **Tech Stack:** `Solidity` `Ethereum` `Smart Contracts` `Foundry`
 
+</td>
+<td width="40%" valign="top" align="center">
+
+![Stars](https://img.shields.io/github/stars/TreapGoGo/BeImmortalContract?style=social)
+![Forks](https://img.shields.io/github/forks/TreapGoGo/BeImmortalContract?style=social)
+
+![Language](https://img.shields.io/github/languages/top/TreapGoGo/BeImmortalContract)
+![License](https://img.shields.io/github/license/TreapGoGo/BeImmortalContract)
+
+<br>
+
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TreapGoGo/BeImmortalContract)
+
+</td>
+</tr>
+</table>
+
 ---
 
+<table>
+<tr>
+<td width="60%" valign="top">
+
 ### 🎨 [Exam.fi](https://github.com/exam-fun/exam-fun) - Behavioral Art Experiment
+
 > **Extremely Radical DeFi Experiment**  
 > An absurd yet thought-provoking exploration of DeFi mechanisms.
 
 **Tech Stack:** `Solidity` `DeFi` `Frontend` `Behavioral Art`  
 **Achievement:** 🥇 ETH Hangzhou 2025 1st Place
 
+</td>
+<td width="40%" valign="top" align="center">
+
+![Stars](https://img.shields.io/github/stars/exam-fun/exam-fun?style=social)
+![Forks](https://img.shields.io/github/forks/exam-fun/exam-fun?style=social)
+
+![Language](https://img.shields.io/github/languages/top/exam-fun/exam-fun)
+![License](https://img.shields.io/github/license/exam-fun/exam-fun)
+
+<br>
+
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/exam-fun/exam-fun)
+
+</td>
+</tr>
+</table>
+
 ---
 
-### ✍️ [Continue - AI Novel Editor](https://github.com/TreapGoGo/continue) 
+<table>
+<tr>
+<td width="60%" valign="top">
+
+### ✍️ [Continue - AI Novel Editor](https://github.com/TreapGoGo/continue)
+
 > **🚧 Work in Progress**  
 > Customizing Continue into an AI-powered novel writing editor. Building the future of creative writing.
 
 **Tech Stack:** `AI` `LLM` `VS Code Extension` `TypeScript`
+
+</td>
+<td width="40%" valign="top" align="center">
+
+![Stars](https://img.shields.io/github/stars/TreapGoGo/continue?style=social)
+![Forks](https://img.shields.io/github/forks/TreapGoGo/continue?style=social)
+
+![Language](https://img.shields.io/github/languages/top/TreapGoGo/continue)
+![License](https://img.shields.io/github/license/TreapGoGo/continue)
+
+<br>
+
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TreapGoGo/continue)
+
+</td>
+</tr>
+</table>
 
 ---
 
