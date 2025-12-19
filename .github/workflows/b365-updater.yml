@@ -1,0 +1,50 @@
+name: Update B365 Day Counter
+
+on:
+  schedule:
+    # Runs at 16:00 UTC every day (which is 00:00 UTC+8)
+    - cron: '0 16 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Calculate B365 Day
+        id: calc
+        run: |
+          python3 -c "
+          from datetime import datetime, timedelta, timezone
+          start_date = datetime(2025, 12, 19, tzinfo=timezone(timedelta(hours=8)))
+          now = datetime.now(timezone(timedelta(hours=8)))
+          diff = now - start_date
+          day = max(0, diff.days)
+          print(f'DAY={day}')
+          " >> $GITHUB_OUTPUT
+
+      - name: Update README.md
+        run: |
+          DAY=${{ steps.calc.outputs.DAY }}
+          BADGE_URL="https://img.shields.io/badge/Status-Day%20$DAY-brightgreen?style=for-the-badge"
+          NEW_IMG="<img src=\"$BADGE_URL\" alt=\"Status Day $DAY\">"
+          
+          # Use sed to replace the content between markers
+          # Using a temporary file for safety
+          sed -i "/<!-- B365_DAY_BADGE_START -->/,/<!-- B365_DAY_BADGE_END -->/c\    <!-- B365_DAY_BADGE_START -->\n    $NEW_IMG\n    <!-- B365_DAY_BADGE_END -->" README.md
+
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add README.md
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "docs: update B365 day counter to Day ${{ steps.calc.outputs.DAY }}"
+            git push
+          fi

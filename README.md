@@ -15,7 +15,7 @@
 💼 **HKBU** | Research Assistant  
 🔍 **[Pharos Insights](https://www.pharosinsights.com/)** | Researcher & Consultant
 
-🚀 **Currently:** Taking a Gap Year to Build My Own Startup
+🚀 **Currently:** Running the **[B365 Project](https://memestorm.notion.site/)** — A 365-day wealth experiment.
 
 
 
@@ -24,6 +24,46 @@
 
 
 </div>
+
+## 🌪️ Project B365: A Transparent Wealth Experiment
+
+<div align="center">
+  <a href="https://memestorm.notion.site/">
+    <img src="https://img.shields.io/badge/Project-B365-red?style=for-the-badge&logo=notion&logoColor=white" alt="B365 Project">
+  </a>
+  <a href="https://memestorm.notion.site/">
+    <!-- B365_DAY_BADGE_START -->
+    <img src="https://img.shields.io/badge/Status-Day%200-brightgreen?style=for-the-badge" alt="Status Day 0">
+    <!-- B365_DAY_BADGE_END -->
+  </a>
+  <a href="https://memestorm.notion.site/">
+    <img src="https://img.shields.io/badge/Goal-100,000,000_RMB-gold?style=for-the-badge" alt="Goal 100M">
+  </a>
+</div>
+
+<br>
+
+> A 21-year-old newbie with zero background.  
+> Attempting to turn **1 RMB** into **100 Million RMB** in just **365 days**.  
+> No VC, no loans, no speculation, no ICOs. Fully **Build in Public**, with absolute transparency.
+
+<table width="100%">
+  <tr>
+    <td width="100%">
+      <h3>🎯 Core Vision</h3>
+      <ul>
+        <li><b>The Challenge</b>: Scaling 1 RMB to 100M RMB net profit within a year.</li>
+        <li><b>100% Philanthropy</b>: All proceeds will be <b>donated to charity</b> to support youth and vulnerable groups.</li>
+        <li><b>The Mission</b>: Testing the true boundaries of an individual in this era, powered by the internet and community.</li>
+      </ul>
+      <p align="right">
+        <a href="https://memestorm.notion.site/"><b>🚀 View Live Progress & Roadmap →</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
 
 
 ## 🏆 Hackathon Achievements
