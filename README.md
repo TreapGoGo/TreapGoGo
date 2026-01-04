@@ -33,7 +33,7 @@
   </a>
   <a href="https://memestorm.notion.site/">
     <!-- B365_DAY_BADGE_START -->
-    <img src="https://img.shields.io/badge/Status-Day%2016-brightgreen?style=for-the-badge" alt="Status Day 16">
+    <img src="https://img.shields.io/badge/Status-Day%2017-brightgreen?style=for-the-badge" alt="Status Day 17">
     <!-- B365_DAY_BADGE_END -->
   </a>
   <a href="https://memestorm.notion.site/">
